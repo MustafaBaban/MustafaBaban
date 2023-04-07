@@ -1,6 +1,6 @@
 # Mustafa Baban 👋
 
-🖥️ Front-end Developer | Designer 🎨 | Passionate Learner 📚 | Eco-Conscious 🌍
+🖥️ Front-end Developer | 🎨 Designer  | 📚 Passionate Learner | 🌍 Eco-Conscious 
 
 
 ## 🔧 Skills
