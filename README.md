@@ -2,9 +2,6 @@
 
 🖥️ Front-end Developer | Designer 🎨 | Passionate Learner 📚 | Eco-Conscious 🌍
 
-## 🌟 About Me
-
-Hi there! I'm Mustafa Baban, a dedicated front-end developer and designer hailing from Sulaymaniyah, Iraq. With a degree in Information Technology, I possess a solid foundation in programming, design, and problem-solving. My personal interests include promoting eco-friendly practices, understanding hormones, and exploring various focus increasing techniques.
 
 ## 🔧 Skills
 
