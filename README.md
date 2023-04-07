@@ -26,7 +26,7 @@
 
 - [Portfolio Website](https://www.mstfa.me)
 - [LinkedIn](https://www.linkedin.com/in/mustafababan/)
-- [Email me](mailto:mail@mstfa.me)
+- [Email me](mailto:mail@mstfa.me) mail@mstfa.me
 
 ---
 
