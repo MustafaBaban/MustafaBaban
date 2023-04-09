@@ -8,9 +8,9 @@
 ### Technical
 - **Front-end:** HTML, CSS, Sass, JavaScript, Vue.js, CSS Animations
 - **Design:** Figma, Adobe XD, UI/UX, Responsive Design, Modern Design Concepts
-- **Back-end:** PHP, Laravel, MVC Frameworks, REST APIs, SQL-based Databases
+- **Back-end:** PHP, Laravel, MVC Frameworks, REST APIs, Strapi, SQL-based Databases
 - **DevOps:** Git, Linux, Server-Side Rendering (SSR), Static Site Generation (SSG)
-- **CMS:** Strapi
+- **AI:** Stable Diffusion, Model Building, Training, Fine-tuning, Model merging 
 
 ### Soft
 - **Communication:** Effective teamwork and collaboration
