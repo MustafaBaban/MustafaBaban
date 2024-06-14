@@ -30,4 +30,4 @@
 
 ---
 
-💡 Thank you for taking the time to get to know me! If you have any questions or would like to discuss potential collaborations, please don't hesitate to reach out. I'm eager to connect with you and uncover new opportunities!
+💡 If you have any questions or would like to discuss potential collaborations, please don't hesitate to reach out.
