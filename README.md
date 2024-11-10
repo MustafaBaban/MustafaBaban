@@ -24,7 +24,7 @@
 
 ## 🌐 Connect with me
 
-- [Portfolio Website](https://www.mstfa.co)
+- [Portfolio Website](https://mstfa.co)
 - [LinkedIn](https://www.linkedin.com/in/mustafababan/)
 - mail@mstfa.co
 
