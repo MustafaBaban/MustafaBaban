@@ -6,10 +6,10 @@
 ## 🔧 Skills
 
 ### Technical
-- **Front-end:** HTML, CSS, Sass, JavaScript, Vue.js, CSS Animations, Ionic
+- **Front-end:** HTML, CSS, Sass, JavaScript, Vue , CSS Animations, Ionic
 - **Design:** Figma, Adobe XD, UI/UX, Responsive Design, Modern Design Concepts
-- **Back-end:** PHP, Laravel, MVC Frameworks, REST APIs, Strapi, SQL-based Databases
-- **DevOps:** Git, Linux, Server-Side Rendering (SSR), 
+- **Back-end:** PHP, Laravel, MVC Frameworks, REST APIs, SQL-based Databases
+- **DevOps:** Git, Linux, VPS
 
 
 ### Soft
@@ -24,9 +24,9 @@
 
 ## 🌐 Connect with me
 
-- [Portfolio Website](https://mstfa.co)
+- [Portfolio Website](https://mstfa.me)
 - [LinkedIn](https://www.linkedin.com/in/mustafababan/)
-- mail@mstfa.co
+- mail@mstfa.me
 
 ---
 
