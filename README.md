@@ -7,7 +7,7 @@
 
 ### Technical
 - **Front-end:** HTML, CSS, Sass, JavaScript, Vue , CSS Animations, Ionic
-- **Design:** Figma, Adobe XD, UI/UX, Responsive Design, Modern Design Concepts
+- **Design:** Figma, UI/UX, Responsive Design, Modern Design Concepts
 - **Back-end:** PHP, Laravel, MVC Frameworks, REST APIs, SQL-based Databases
 - **DevOps:** Git, Linux, VPS
 
